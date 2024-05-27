@@ -2,6 +2,7 @@
 
 * Студент: [shamatulskiy](https://up.htmlacademy.ru/htmlcss/40/user/2476909).
 * Наставник: [Николай Колганов](https://htmlacademy.ru/profile/id794007).
+* Мой сайт: [Сайт Седона](https://shamatulskiy.github.io/2476909-sedona-40/)
 
 ---
 
