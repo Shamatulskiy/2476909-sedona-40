@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [shamatulskiy](https://up.htmlacademy.ru/htmlcss/40/user/2476909).
-* Наставник: `Неизвестно`.
+* Наставник: [Николай Колганов](https://htmlacademy.ru/profile/id794007).
 
 ---
 
